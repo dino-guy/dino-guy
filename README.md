@@ -21,42 +21,57 @@ HEY!!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 
-## About Me
+## 👨‍💼 About Me
 
-- Passionate about Stock Market & Trading
-- Learning Technical Analysis
-- Interested in Equity Research
-- Building Finance Projects
-- Preparing for NISM Certification
+📊 Aspiring Equity Research Analyst with a strong interest in Financial Markets, Technical Analysis, and Investment Research.
 
----
+🎓 Currently pursuing B.Tech in Artificial Intelligence & Data Science while building expertise in Stock Market Analysis and Risk Management.
 
-## Skills
+📈 Experienced in analyzing Nifty 50 stocks through Trend Analysis, Support & Resistance, Risk-Reward Assessment, and Trade Journaling.
 
-- Excel
-- TradingView
-- Python
-- GitHub
-- Financial Analysis
-- Risk Management
+📚 Actively preparing for NISM Certifications to strengthen my understanding of Financial Markets and Securities.
+
+🚀 Passionate about combining Technology, Data Analysis, and Finance to develop practical market insights and investment strategies.
 
 ---
 
-## Projects
+## 🛠️ Skills & Tools
 
-### 📈 Nifty 50 Technical Analysis
-- Trend Analysis
-- Support & Resistance
-- Risk Reward Ratio
-- Trade Setups
+🔹 Excel & Financial Modeling
+🔹 TradingView & Technical Analysis
+🔹 Python for Data Analysis
+🔹 Git & GitHub
+🔹 Risk Management
+🔹 Equity Research Fundamentals
 
 ---
 
-## Connect With Me
+## 📈 Featured Project
 
-📧 Email: kumardinesh46413@gmail.com
+### Nifty 50 Technical Analysis
 
-💼 LinkedIn: www.linkedin.com/in/dineshkumarp10
+* Trend Analysis of Nifty 50 Stocks
+* Support & Resistance Mapping
+* Risk-Reward Ratio Evaluation
+* Trade Setup Documentation
+* Performance Tracking & Reporting
+
 ---
 
-⭐ Always Learning | Always Improving
+## 📬 Connect With Me
+
+📧 Email: [kumardinesh46413@gmail.com](mailto:kumardinesh46413@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/dineshkumarp10](http://www.linkedin.com/in/dineshkumarp10)
+
+---
+
+### 🎯 Career Objective
+
+To build a successful career in Equity Research, Financial Analysis, and Capital Markets while continuously learning, analyzing, and creating value through disciplined research and data-driven decision-making.
+
+⭐ "Turning Market Data into Meaningful Investment Insights."
+
+
+
+
