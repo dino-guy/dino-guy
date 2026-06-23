@@ -5,7 +5,7 @@ Aspiring Equity Research Analyst & Intraday Trader
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Analyzing+Markets;Managing+Risk;Creating+Value;Technical+Analysis+Enthusiast;Future+Equity+Research+Analyst" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Analyzing+Markets;Managing+Risk;Creating+Value;Technical+Analysis+;Future+Equity+Research+Analyst" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Aspiring Equity Research Analyst & Intraday Trader
 * Financial Markets
 * Technical Analysis
 * Risk Management
-* Data Analytics
+
 
 ---
 
@@ -84,7 +84,6 @@ Aspiring Equity Research Analyst & Intraday Trader
 | 💰 Groww       | Investing & Market Tracking |
 | 🌍 Binance     | Forex Market Analysis       |
 | 📊 Excel       | Trade Journal & Analysis    |
-| 🐍 Python      | Data Analysis               |
 | 💻 GitHub      | Project Portfolio           |
 
 ---
