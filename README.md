@@ -113,28 +113,13 @@ Aspiring Equity Research Analyst & Intraday Trader
 * Market Structure
 * Risk Reward Evaluation
 * Trade Setups
-
-## Intraday Trading Journal
-
-* Daily Trade Logs
 * Win Rate Tracking
 * Trade Reviews
 * Performance Analysis
-
-## Risk Reward Calculator
-
 * Position Sizing
 * Risk Percentage Calculation
 * Reward Projection
 * Trade Planning
-
-## Forex Market Analysis
-
-* Major Forex Pairs
-* Technical Analysis
-* Market Structure
-* Risk Management
-
 ---
 
 # 📉 Sample Chart Analysis
