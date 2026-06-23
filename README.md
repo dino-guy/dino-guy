@@ -121,22 +121,28 @@ Aspiring Equity Research Analyst & Intraday Trader
 * Reward Projection
 * Trade Planning
 ---
+# 📉 Chart Analysis Showcase
 
-# 📉 Sample Chart Analysis
+## Reliance Industries (30 Min)
 
-### Nifty 50 Analysis
+📌 Strategy: BOS + Liquidity Sweep + FVG
 
-📈 Trend : Bullish
+📈 Market Structure:
+- Break of Structure (BOS)
+- Liquidity Sweep
+- Fair Value Gap (FVG)
 
-🟢 Support Zone : Mark on Chart
+🎯 Trade Direction:
+- Sell Setup
 
-🔴 Resistance Zone : Mark on Chart
+🛑 Risk Management:
+- Entry near FVG zone
+- Stop Loss above liquidity sweep
+- Target based on market structure
 
-🎯 Risk Reward Setup
+### Chart
 
-📊 Market Structure Analysis
-
-(Upload your TradingView chart screenshot here later)
+![Reliance Analysis](./RELIANCE_reliance-industries%2030%20mins%20charts.png)
 
 ---
 
