@@ -1,77 +1,173 @@
-HEY!!
-<h1 align="center">📊 Dinesh Kumar</h1>
-<h3 align="center">Aspiring Equity Research Analyst | Trader | B.Tech AI & DS</h3>
+<h1 align="center">📊 DINESHKUMAR P</h1>
+
+<h3 align="center">
+Aspiring Equity Research Analyst & Intraday Trader
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Equity+Research+Analyst;Stock+Market+Enthusiast;Technical+Analysis+Learner;Building+Finance+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Analyzing+Markets;Managing+Risk;Creating+Value;Technical+Analysis+Enthusiast;Future+Equity+Research+Analyst" />
 </p>
+
+---
+
+# 📈 Daily Tools I Use
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dino-guy&show_icons=true&theme=tokyonight" />
+
+<img src="https://img.shields.io/badge/Groww-Investing%20%26%20Market%20Tracking-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TradingView-Chart%20Analysis-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Binance-Forex%20Market-F3BA2F?style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dino-guy&theme=tokyonight" />
-</p>
+---
 
+# 👨‍💼 About Me
 
-## Tech Stack
+📊 Aspiring Equity Research Analyst with a strong interest in Financial Markets.
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+📈 Intraday Trader focused on Technical Analysis, Market Structure and Risk Management.
 
-## 👨‍💼 About Me
+💹 Passionate about studying Nifty 50, Bank Nifty and Forex Markets.
 
-📊 Aspiring Equity Research Analyst with a strong interest in Financial Markets, Technical Analysis, and Investment Research.
+📚 Building finance-focused projects and improving analytical skills every day.
 
-🎓 Currently pursuing B.Tech in Artificial Intelligence & Data Science while building expertise in Stock Market Analysis and Risk Management.
-
-📈 Experienced in analyzing Nifty 50 stocks through Trend Analysis, Support & Resistance, Risk-Reward Assessment, and Trade Journaling.
-
-📚 Actively preparing for NISM Certifications to strengthen my understanding of Financial Markets and Securities.
-
-🚀 Passionate about combining Technology, Data Analysis, and Finance to develop practical market insights and investment strategies.
+🎯 Goal: Build a successful career in Equity Research and Capital Markets.
 
 ---
 
-## 🛠️ Skills & Tools
+# 🎓 Education
 
-🔹 Excel & Financial Modeling
-🔹 TradingView & Technical Analysis
-🔹 Python for Data Analysis
-🔹 Git & GitHub
-🔹 Risk Management
-🔹 Equity Research Fundamentals
+### B.Tech – Artificial Intelligence & Data Science
 
----
+🏫 Current: 3rd Year
 
-## 📈 Featured Project
+📍 India
 
-### Nifty 50 Technical Analysis
+### Areas of Interest
 
-* Trend Analysis of Nifty 50 Stocks
-* Support & Resistance Mapping
-* Risk-Reward Ratio Evaluation
-* Trade Setup Documentation
-* Performance Tracking & Reporting
+* Equity Research
+* Financial Markets
+* Technical Analysis
+* Risk Management
+* Data Analytics
 
 ---
 
-## 📬 Connect With Me
+# 💻 Financial Skills
 
-📧 Email: [kumardinesh46413@gmail.com](mailto:kumardinesh46413@gmail.com)
+✅ Technical Analysis
 
-💼 LinkedIn: [www.linkedin.com/in/dineshkumarp10](http://www.linkedin.com/in/dineshkumarp10)
+✅ Support & Resistance
+
+✅ Market Structure Analysis
+
+✅ Risk Management
+
+✅ Risk Reward Analysis
+
+✅ Equity Research
+
+✅ Trade Planning
+
+✅ Price Action Analysis
 
 ---
 
-### 🎯 Career Objective
+# 🛠️ Tools I Use
 
-To build a successful career in Equity Research, Financial Analysis, and Capital Markets while continuously learning, analyzing, and creating value through disciplined research and data-driven decision-making.
+| Tool           | Purpose                     |
+| -------------- | --------------------------- |
+| 📈 TradingView | Chart Analysis              |
+| 💰 Groww       | Investing & Market Tracking |
+| 🌍 Binance     | Forex Market Analysis       |
+| 📊 Excel       | Trade Journal & Analysis    |
+| 🐍 Python      | Data Analysis               |
+| 💻 GitHub      | Project Portfolio           |
 
-⭐ "Turning Market Data into Meaningful Investment Insights."
+---
 
+# 📊 Market Focus
 
+✅ Nifty 50
 
+✅ Bank Nifty
 
+✅ Sensex
+
+✅ Forex Markets
+
+✅ Intraday Trading
+
+✅ Equity Research
+
+---
+
+# 📈 Featured Projects
+
+## Nifty 50 Technical Analysis
+
+* Trend Analysis
+* Support & Resistance
+* Market Structure
+* Risk Reward Evaluation
+* Trade Setups
+
+## Intraday Trading Journal
+
+* Daily Trade Logs
+* Win Rate Tracking
+* Trade Reviews
+* Performance Analysis
+
+## Risk Reward Calculator
+
+* Position Sizing
+* Risk Percentage Calculation
+* Reward Projection
+* Trade Planning
+
+## Forex Market Analysis
+
+* Major Forex Pairs
+* Technical Analysis
+* Market Structure
+* Risk Management
+
+---
+
+# 📉 Sample Chart Analysis
+
+### Nifty 50 Analysis
+
+📈 Trend : Bullish
+
+🟢 Support Zone : Mark on Chart
+
+🔴 Resistance Zone : Mark on Chart
+
+🎯 Risk Reward Setup
+
+📊 Market Structure Analysis
+
+(Upload your TradingView chart screenshot here later)
+
+---
+
+# 🐍 Contribution Snake
+
+```text
+Add after setting up GitHub Actions
+```
+
+---
+
+<h2 align="center">
+📈 Analyze Markets • Manage Risk • Create Value 📈
+</h2>
+
+<h3 align="center">
+💹 Discipline Today, Financial Freedom Tomorrow 💹
+</h3>
