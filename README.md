@@ -146,18 +146,10 @@ Aspiring Equity Research Analyst & Intraday Trader
 
 ---
 
-# 🐍 Contribution Snake
-
-```text
-Add after setting up GitHub Actions
-```
-
----
-
 <h2 align="center">
 📈 Analyze Markets • Manage Risk • Create Value 📈
 </h2>
 
 <h3 align="center">
-💹 Discipline Today, Financial Freedom Tomorrow 💹
+💹 Discipline Today, Financial Freedom Tomorrow 📈
 </h3>
