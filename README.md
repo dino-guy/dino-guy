@@ -120,29 +120,6 @@ Aspiring Equity Research Analyst & Intraday Trader
 * Risk Percentage Calculation
 * Reward Projection
 * Trade Planning
----
-# 📉 Chart Analysis Showcase
-
-## Reliance Industries (30 Min)
-
-📌 Strategy: BOS + Liquidity Sweep + FVG
-
-📈 Market Structure:
-- Break of Structure (BOS)
-- Liquidity Sweep
-- Fair Value Gap (FVG)
-
-🎯 Trade Direction:
-- Sell Setup
-
-🛑 Risk Management:
-- Entry near FVG zone
-- Stop Loss above liquidity sweep
-- Target based on market structure
-
-### Chart
-
-![Reliance Analysis](./RELIANCE_reliance-industries%2030%20mins%20charts.png)
 
 ---
 
